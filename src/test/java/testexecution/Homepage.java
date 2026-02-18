@@ -2,8 +2,8 @@ package testexecution;
 
 import org.testng.annotations.Test;
 
-public class Loginttest {
-
+public class Homepage 
+{
 	@Test
 	public void testcaseOne()
 	{
@@ -11,5 +11,4 @@ public class Loginttest {
 		System.out.println("Anish tc is passed");
 
 	}
-
 }
