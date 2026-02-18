@@ -8,7 +8,5 @@ public class Homepage
 	public void testcaseOne()
 	{
 		System.out.println("tc is passed");
-		System.out.println("Anish tc is passed");
-
 	}
 }
